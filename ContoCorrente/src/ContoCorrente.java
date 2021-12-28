@@ -36,4 +36,5 @@ public class ContoCorrente {
 		public int ottieniNumeroConto() {
 			return numeroConto;
 		}
+		
 }

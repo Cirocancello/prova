@@ -23,6 +23,7 @@ public class UsaConto {
 		conto1.preleva(100);
 		
 		System.out.println("Ciao");
+		System.out.println("Ciao");
 		
 
 	}
