@@ -22,6 +22,7 @@ public class UsaConto {
 		System.out.println("Prelevo dal conto numero "+conto1.ottieniNumeroConto()+" 100 €");
 		conto1.preleva(100);
 		
+		System.out.println("Ciao");
 		
 
 	}
